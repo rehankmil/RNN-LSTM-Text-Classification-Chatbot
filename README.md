@@ -7,9 +7,7 @@ Tujuan utama proyek ini adalah untuk:
     * **Chatbot (Seq2Seq)**: Membuat model yang dapat menghasilkan jawaban relevan berdasarkan pertanyaan yang diberikan.     
 3.  Menganalisis dan membandingkan performa, kelebihan, dan kekurangan dari masing-masing model pada setiap task.
      
-## Struktur Proyek     
-Berikut adalah struktur direktori dari repositori ini:     
-.     
+## Struktur Proyek        
 ├── data/      
 │   ├── dataset_tweet_sentiment_opini_film.csv      
 │   └── train-SQuAD-id.json     
